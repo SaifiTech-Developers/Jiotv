@@ -1,6 +1,9 @@
 
 <p align='center'><img src="https://i.ibb.co/BcjC6R8/jiotv.png" width="120" ></p>
 
+<a href="https://render.com/deploy?repo=https://github.com/Playflix007/Babluapi">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" />
+</a>
 
 
 <h4 align='center'>📺 The PHP Script For Grab Streaming Links and Play it ,</br> This  Works Mobile,Tizen OS ,Web Os, AndroidTV , PC Browser Perfect
